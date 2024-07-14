@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# CINETAG
+
+Projeto realizado no Programa ONE da turma 6 - Módulo React: praticando com JS.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
